@@ -1,0 +1,23 @@
+{
+  "id": "eatthismuch",
+  "name": "Eat This Much",
+  "version": "1.0.0",
+  "description": "Eat This Much",
+  "main": "index.js",
+  "author": "Matthew Parmelee <matthew@parmel.ee>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.eatthismuch.com/user/login/",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasDirectMessages": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
